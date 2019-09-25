@@ -1,0 +1,9 @@
+object foPrincipal: TfoPrincipal
+  Left = 673
+  Height = 406
+  Top = 334
+  Width = 783
+  Caption = 'Estoque Fácil'
+  Position = poScreenCenter
+  LCLVersion = '2.0.4.0'
+end
