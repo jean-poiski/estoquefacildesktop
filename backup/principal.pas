@@ -5,10 +5,14 @@ unit Principal;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls;
 
 type
+
+  { TfoPrincipal }
+
   TfoPrincipal = class(TForm)
+    sbPrincipal: TStatusBar;
   private
 
   public

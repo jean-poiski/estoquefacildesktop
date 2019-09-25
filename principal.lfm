@@ -8,11 +8,15 @@ object foPrincipal: TfoPrincipal
   ClientWidth = 783
   Position = poScreenCenter
   LCLVersion = '2.0.4.0'
-  object StatusBar1: TStatusBar
+  object sbPrincipal: TStatusBar
     Left = 0
     Height = 23
     Top = 383
     Width = 783
-    Panels = <>
+    Panels = <    
+      item
+        Width = 50
+      end>
+    SimplePanel = False
   end
 end

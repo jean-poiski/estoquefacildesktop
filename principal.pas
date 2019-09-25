@@ -12,7 +12,7 @@ type
   { TfoPrincipal }
 
   TfoPrincipal = class(TForm)
-    StatusBar1: TStatusBar;
+    sbPrincipal: TStatusBar;
   private
 
   public
