@@ -1,0 +1,74 @@
+object foLogin: TfoLogin
+  Left = 768
+  Height = 296
+  Top = 327
+  Width = 379
+  BorderStyle = bsDialog
+  Caption = 'Estoque Fácil - Login'
+  ClientHeight = 296
+  ClientWidth = 379
+  Position = poScreenCenter
+  LCLVersion = '2.0.4.0'
+  object GroupBox1: TGroupBox
+    Left = 10
+    Height = 276
+    Top = 10
+    Width = 359
+    Align = alClient
+    BorderSpacing.Left = 10
+    BorderSpacing.Top = 10
+    BorderSpacing.Right = 10
+    BorderSpacing.Bottom = 10
+    Caption = ' Insira suas informações de acesso '
+    ClientHeight = 256
+    ClientWidth = 355
+    TabOrder = 0
+    object btOk: TBitBtn
+      Left = 66
+      Height = 30
+      Top = 159
+      Width = 224
+      Caption = '&Acessar'
+      Default = True
+      Kind = bkOK
+      ModalResult = 1
+      OnClick = btOkClick
+      TabOrder = 2
+    end
+    object btSair: TBitBtn
+      Left = 66
+      Height = 30
+      Top = 199
+      Width = 224
+      Caption = '&Sair'
+      Kind = bkClose
+      ModalResult = 11
+      OnClick = btSairClick
+      TabOrder = 3
+    end
+    object edUsuario: TLabeledEdit
+      Left = 66
+      Height = 23
+      Top = 51
+      Width = 224
+      EditLabel.Height = 15
+      EditLabel.Width = 224
+      EditLabel.Caption = 'Usuário'
+      EditLabel.ParentColor = False
+      TabOrder = 0
+    end
+    object edSenha: TLabeledEdit
+      Left = 66
+      Height = 23
+      Top = 107
+      Width = 224
+      EchoMode = emPassword
+      EditLabel.Height = 15
+      EditLabel.Width = 224
+      EditLabel.Caption = 'Senha'
+      EditLabel.ParentColor = False
+      PasswordChar = '*'
+      TabOrder = 1
+    end
+  end
+end

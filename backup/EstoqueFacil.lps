@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="11"/>
     <BuildModes Active="Default"/>
-    <Units Count="3">
+    <Units Count="4">
       <Unit0>
         <Filename Value="EstoqueFacil.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
       </Unit0>
       <Unit1>
         <Filename Value="principal.pas"/>
@@ -21,21 +21,33 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Principal"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="37" Y="8"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="20" Y="30"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="principal.lfm"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="2"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="LFM"/>
       </Unit2>
+      <Unit3>
+        <Filename Value="login.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="foLogin"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="35" Y="54"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
     </Units>
-    <JumpHistory Count="2" HistoryIndex="1">
+    <JumpHistory Count="21" HistoryIndex="20">
       <Position1>
         <Filename Value="principal.pas"/>
         <Caret Line="21" Column="48"/>
@@ -44,6 +56,81 @@
         <Filename Value="principal.pas"/>
         <Caret Line="8" Column="37"/>
       </Position2>
+      <Position3>
+        <Filename Value="principal.pas"/>
+        <Caret Line="30" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="principal.pas"/>
+        <Caret Line="31" Column="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="principal.pas"/>
+        <Caret Line="32" Column="20"/>
+      </Position5>
+      <Position6>
+        <Filename Value="principal.pas"/>
+        <Caret Line="31" Column="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="principal.pas"/>
+        <Caret Line="30" Column="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="login.pas"/>
+      </Position8>
+      <Position9>
+        <Filename Value="login.pas"/>
+        <Caret Line="30" Column="46" TopLine="10"/>
+      </Position9>
+      <Position10>
+        <Filename Value="login.pas"/>
+        <Caret Line="32" Column="46" TopLine="11"/>
+      </Position10>
+      <Position11>
+        <Filename Value="login.pas"/>
+        <Caret Line="31" Column="46" TopLine="11"/>
+      </Position11>
+      <Position12>
+        <Filename Value="login.pas"/>
+        <Caret Line="30" Column="46" TopLine="10"/>
+      </Position12>
+      <Position13>
+        <Filename Value="login.pas"/>
+        <Caret Line="29" Column="46" TopLine="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="login.pas"/>
+        <Caret Line="28" Column="46" TopLine="8"/>
+      </Position14>
+      <Position15>
+        <Filename Value="login.pas"/>
+        <Caret Line="27" Column="46" TopLine="7"/>
+      </Position15>
+      <Position16>
+        <Filename Value="login.pas"/>
+        <Caret Line="28" Column="46" TopLine="7"/>
+      </Position16>
+      <Position17>
+        <Filename Value="login.pas"/>
+        <Caret Line="30" Column="46" TopLine="7"/>
+      </Position17>
+      <Position18>
+        <Filename Value="login.pas"/>
+        <Caret Line="53" TopLine="26"/>
+      </Position18>
+      <Position19>
+        <Filename Value="login.pas"/>
+        <Caret Line="54" Column="35" TopLine="26"/>
+      </Position19>
+      <Position20>
+        <Filename Value="login.pas"/>
+        <Caret Line="55" Column="35" TopLine="27"/>
+      </Position20>
+      <Position21>
+        <Filename Value="login.pas"/>
+        <Caret Line="54" Column="35" TopLine="26"/>
+      </Position21>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
