@@ -6,6 +6,7 @@ object foPrincipal: TfoPrincipal
   Caption = 'Estoque Fácil'
   ClientHeight = 406
   ClientWidth = 783
+  OnShow = FormShow
   Position = poScreenCenter
   LCLVersion = '2.0.4.0'
   object sbPrincipal: TStatusBar

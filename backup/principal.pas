@@ -5,7 +5,7 @@ unit Principal;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls, login;
 
 type
 
@@ -13,6 +13,7 @@ type
 
   TfoPrincipal = class(TForm)
     sbPrincipal: TStatusBar;
+    procedure FormShow(Sender: TObject);
   private
 
   public
@@ -25,6 +26,21 @@ var
 implementation
 
 {$R *.lfm}
+
+{ TfoPrincipal }
+
+
+procedure TfoPrincipal.FormShow(Sender: TObject);
+begin
+  foLogin := TfoLogin.Create(Self);
+  try
+     foLogin.ShowModal;
+
+  finally
+    FreeAndNil(foLogin);
+  end;
+
+end;
 
 end.
 

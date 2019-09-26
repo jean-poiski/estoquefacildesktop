@@ -16,8 +16,8 @@ begin
   RequireDerivedFormResource:=True;
   Application.Scaled:=True;
   Application.Initialize;
-  Application.CreateForm(TfoPrincipal, foPrincipal);
-  Application.Title:='EstoqueFacil';
+  Application.CreateForm(TfoLogin, foLogin);
+  Application.Title := 'Estoque Fácil';
   Application.Run;
 end.
 

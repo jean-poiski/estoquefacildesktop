@@ -4,15 +4,14 @@
     <PathDelim Value="\"/>
     <Version Value="11"/>
     <BuildModes Active="Default"/>
-    <Units Count="4">
+    <Units Count="22">
       <Unit0>
         <Filename Value="EstoqueFacil.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <WindowIndex Value="-1"/>
-        <TopLine Value="-1"/>
-        <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="21"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="47" Y="16"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="principal.pas"/>
@@ -21,116 +20,286 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Principal"/>
-        <CursorPos X="20" Y="30"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="9"/>
+        <CursorPos Y="41"/>
+        <UsageCount Value="27"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
-        <Filename Value="principal.lfm"/>
-        <EditorIndex Value="2"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-        <DefaultSyntaxHighlighter Value="LFM"/>
-      </Unit2>
-      <Unit3>
         <Filename Value="login.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="foLogin"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="26"/>
-        <CursorPos X="35" Y="54"/>
-        <UsageCount Value="21"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="55"/>
+        <CursorPos X="35" Y="81"/>
+        <UsageCount Value="27"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="principal.lfm"/>
+        <EditorIndex Value="9"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
       </Unit3>
+      <Unit4>
+        <Filename Value="C:\Users\Jean\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\indylaz.pas"/>
+        <EditorIndex Value="8"/>
+        <CursorPos Y="19"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\lcl\interfaces\carbon\pascocoa\appkit\appkit.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="19"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="13" Y="44"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="100"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc-class.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="160"/>
+        <CursorPos X="98" Y="179"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc-auto.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="53" Y="43"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc-exception.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="21" Y="54"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc-runtime.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="163"/>
+        <CursorPos X="62" Y="172"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\error.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="59" Y="125"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\lcl\interfaces\carbon\objc\lobjc-sync.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="62" Y="44"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\lcl\interfaces\carbon\pascocoa\foundation\foundation.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="12"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\lcl\interfaces\carbon\pascocoa\foundation\NSAttributedString.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="71" Y="13"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\Users\Jean\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\Protocols\indyprotocolsfpc.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="82"/>
+        <CursorPos X="6" Y="110"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\Users\Jean\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\Protocols\IdHTTP.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="652"/>
+        <CursorPos X="27" Y="672"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2182"/>
+        <CursorPos Y="2208"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\components\lazutils\lazmethodlist.pas"/>
+        <UnitName Value="LazMethodList"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="171"/>
+        <CursorPos Y="192"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="1453"/>
+        <CursorPos X="29" Y="1481"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="110"/>
+        <CursorPos X="20" Y="127"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit21>
     </Units>
-    <JumpHistory Count="21" HistoryIndex="20">
+    <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
-        <Filename Value="principal.pas"/>
-        <Caret Line="21" Column="48"/>
+        <Filename Value="..\..\components\lazutils\lazmethodlist.pas"/>
+        <Caret Line="188" TopLine="171"/>
       </Position1>
       <Position2>
-        <Filename Value="principal.pas"/>
-        <Caret Line="8" Column="37"/>
+        <Filename Value="..\..\components\lazutils\lazmethodlist.pas"/>
+        <Caret Line="191" TopLine="171"/>
       </Position2>
       <Position3>
-        <Filename Value="principal.pas"/>
-        <Caret Line="30" Column="20"/>
+        <Filename Value="..\..\components\lazutils\lazmethodlist.pas"/>
+        <Caret Line="192" TopLine="171"/>
       </Position3>
       <Position4>
-        <Filename Value="principal.pas"/>
-        <Caret Line="31" Column="20"/>
+        <Filename Value="login.pas"/>
+        <Caret Line="46" TopLine="44"/>
       </Position4>
       <Position5>
-        <Filename Value="principal.pas"/>
-        <Caret Line="32" Column="20"/>
+        <Filename Value="login.pas"/>
+        <Caret Line="74" Column="24" TopLine="50"/>
       </Position5>
       <Position6>
-        <Filename Value="principal.pas"/>
-        <Caret Line="31" Column="20"/>
+        <Filename Value="login.pas"/>
+        <Caret Line="31" Column="101" TopLine="11"/>
       </Position6>
       <Position7>
         <Filename Value="principal.pas"/>
-        <Caret Line="30" Column="20"/>
+        <Caret Line="17"/>
       </Position7>
       <Position8>
-        <Filename Value="login.pas"/>
+        <Filename Value="principal.pas"/>
+        <Caret Line="41" TopLine="9"/>
       </Position8>
       <Position9>
-        <Filename Value="login.pas"/>
-        <Caret Line="30" Column="46" TopLine="10"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret TopLine="211"/>
       </Position9>
       <Position10>
-        <Filename Value="login.pas"/>
-        <Caret Line="32" Column="46" TopLine="11"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="49" Column="200" TopLine="32"/>
       </Position10>
       <Position11>
-        <Filename Value="login.pas"/>
-        <Caret Line="31" Column="46" TopLine="11"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="358" TopLine="339"/>
       </Position11>
       <Position12>
-        <Filename Value="login.pas"/>
-        <Caret Line="30" Column="46" TopLine="10"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="368" Column="54" TopLine="355"/>
       </Position12>
       <Position13>
-        <Filename Value="login.pas"/>
-        <Caret Line="29" Column="46" TopLine="9"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="378" Column="68" TopLine="355"/>
       </Position13>
       <Position14>
-        <Filename Value="login.pas"/>
-        <Caret Line="28" Column="46" TopLine="8"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="426" Column="39" TopLine="398"/>
       </Position14>
       <Position15>
-        <Filename Value="login.pas"/>
-        <Caret Line="27" Column="46" TopLine="7"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="441" Column="59" TopLine="414"/>
       </Position15>
       <Position16>
-        <Filename Value="login.pas"/>
-        <Caret Line="28" Column="46" TopLine="7"/>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="457" Column="52" TopLine="430"/>
       </Position16>
       <Position17>
         <Filename Value="login.pas"/>
-        <Caret Line="30" Column="46" TopLine="7"/>
+        <Caret Line="73" Column="40" TopLine="50"/>
       </Position17>
       <Position18>
         <Filename Value="login.pas"/>
-        <Caret Line="53" TopLine="26"/>
       </Position18>
       <Position19>
         <Filename Value="login.pas"/>
-        <Caret Line="54" Column="35" TopLine="26"/>
+        <Caret Line="86" TopLine="53"/>
       </Position19>
       <Position20>
         <Filename Value="login.pas"/>
-        <Caret Line="55" Column="35" TopLine="27"/>
+        <Caret Line="90" Column="46" TopLine="65"/>
       </Position20>
       <Position21>
         <Filename Value="login.pas"/>
-        <Caret Line="54" Column="35" TopLine="26"/>
+        <Caret Line="78" Column="5" TopLine="64"/>
       </Position21>
+      <Position22>
+        <Filename Value="login.pas"/>
+        <Caret Line="86" Column="35" TopLine="34"/>
+      </Position22>
+      <Position23>
+        <Filename Value="C:\Users\Jean\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\Protocols\IdHTTP.pas"/>
+        <Caret Line="637" Column="3" TopLine="632"/>
+      </Position23>
+      <Position24>
+        <Filename Value="login.pas"/>
+        <Caret Line="89" TopLine="68"/>
+      </Position24>
+      <Position25>
+        <Filename Value="login.pas"/>
+        <Caret Line="84" TopLine="68"/>
+      </Position25>
+      <Position26>
+        <Filename Value="login.pas"/>
+        <Caret Line="81" TopLine="68"/>
+      </Position26>
+      <Position27>
+        <Filename Value="login.pas"/>
+        <Caret Line="82" TopLine="68"/>
+      </Position27>
+      <Position28>
+        <Filename Value="login.pas"/>
+        <Caret Line="86" Column="39" TopLine="55"/>
+      </Position28>
+      <Position29>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="465" Column="3" TopLine="454"/>
+      </Position29>
+      <Position30>
+        <Filename Value="..\..\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <Caret Line="127" Column="20" TopLine="108"/>
+      </Position30>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
